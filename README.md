@@ -32,4 +32,6 @@ Edit `config.py` to customize:
 - Scan intervals
 - Alert thresholds
 - Cryptocurrency pairs
-,
+,# Crypto Momentum App
+
+My crypto scanner project.
