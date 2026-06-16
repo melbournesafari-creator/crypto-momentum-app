@@ -32,3 +32,4 @@ Edit `config.py` to customize:
 - Scan intervals
 - Alert thresholds
 - Cryptocurrency pairs
+,
