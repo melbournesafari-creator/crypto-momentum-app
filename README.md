@@ -35,3 +35,14 @@ Edit `config.py` to customize:
 ,# Crypto Momentum App
 
 My crypto scanner project.
+# Crypto Momentum App
+
+Features:
+- Pump.fun token scanner
+- Twitter/X trend scanner
+- News sentiment scanner
+- Momentum scoring
+- Paper trading simulation
+- Performance dashboard
+
+Status: Development Started
